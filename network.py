@@ -1,6 +1,6 @@
 # Final Project: Arithmetic Math Game, by Joe Nguyen and Charles Bolt.
 # Network.py
-# Date: 04/16/22
+# Date: 04/23/22
 # Description: This is the network connection file for the Arithmetic Math Game.
 
 import socket
